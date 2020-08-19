@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+
+
+}
+#stars {
+    background: linear-gradient(rgb(7, 87, 7),red);
+    height: fit-content;
+    width: fit-content;
+    font-weight: bold;
+    font-size: 40px;
+    margin: auto;
+    color: firebrick;
+    border: 2px solid black;
+    margin-top: 100px;
+    transition: 0,5s;
+    padding: 10px;
+}
